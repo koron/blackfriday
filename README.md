@@ -15,6 +15,16 @@ extensions.
 It started as a translation from C of [Sundown][3].
 
 
+ATTENTION
+---------
+
+Add this to your go.mod to use this folk.
+
+```
+replace github.com/russross/blackfriday/v2 v2.1.0 => github.com/koron/blackfriday/v2 v2.1.0-fix.1
+```
+
+
 Installation
 ------------
 
