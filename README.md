@@ -21,7 +21,7 @@ ATTENTION
 Add this to your go.mod to use this folk.
 
 ```
-replace github.com/russross/blackfriday/v2 v2.1.0 => github.com/koron/blackfriday/v2 v2.1.0-fix.1
+replace github.com/russross/blackfriday/v2 v2.1.0 => github.com/koron/blackfriday/v2 v2.1.0-fix.2
 ```
 
 
